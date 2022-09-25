@@ -1,4 +1,5 @@
 color = input("Enter your favorite color.   ")
+
 if color == "purpole":
     print("Not Bad!")
 
