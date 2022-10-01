@@ -65,4 +65,4 @@ if statEnd == "start":
 
 
 else:
-    print("end program end.")
+    print("Game over.")
