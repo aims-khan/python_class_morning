@@ -47,16 +47,7 @@ while play_again:
     else:
         play_again = False
         print("good luck guys...")
-
-# arr =["rock","paper","scissors"]
-# import random
-# rand_choice = random.choice(arr)
-
-# if rand_choice == "rock":
-#     computer = "rock"
-# elif rand_choice == "paper":
-#     computer = "paper"
-# else 
+ 
 
 
 

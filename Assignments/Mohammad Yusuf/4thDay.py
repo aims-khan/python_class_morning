@@ -66,3 +66,8 @@ if statEnd == "start":
 
 else:
     print("Game over.")
+
+
+
+arr234 = [1,2,3,4]
+print(arr234.reverse())
