@@ -12,3 +12,5 @@ print(f"Your {num}Km ride was {result}mi")
 print("my name is khan")
 
 
+name = "My name is khan"
+phone = 12345
