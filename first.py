@@ -18,3 +18,4 @@ a= input(int('>'))
 for i in range(a):
   print(a,'*',3, ' = ', a*3)
   print("Another changes")
+print("HI  BRO")
