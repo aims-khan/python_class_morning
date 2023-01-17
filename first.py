@@ -9,7 +9,7 @@
    # print("<-----whli you have a problem contact me at this number----<0772658725>------->")
 #for i in range(1,21):
  #   if i==4 or i== 13:
-  #      print(i,"unlucky")
+  #      print(i,"unluckyy")
    # elif i % 2 ==0:
     #    print(i,"Even")
     #elif i % 2 ==1:

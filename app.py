@@ -5,7 +5,7 @@ print("""select your move
 3:scissors""")
 player1=input("player1, make your move:")
 rand_num=random.randint(0,2)
-
+#hgfghfhgfghf
 if rand_num==0:
     computer="rock"
     print(f"computer choice {computer}")
